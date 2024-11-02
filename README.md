@@ -1,8 +1,8 @@
-![header](https://github.com/kikolorenzo/kikolorenzo/blob/main/banner%200.png)
+![header](https://github.com/kikolorenzo/kikolorenzo/blob/main/banner%201.png)
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DejaVu+Sans&weight=600&size=25&duration=2800&pause=2000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=435&lines=Hola%2C+soy+Kiko+Lorenzo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DejaVu+Sans&weight=600&size=25&duration=2800&pause=2000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=435&lines=Hola%2C+soy+Kiko+Lorenzo&background=131723)](https://git.io/typing-svg)
 </div>
 <div align="center">
 <h2> &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
