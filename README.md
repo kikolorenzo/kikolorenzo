@@ -42,26 +42,22 @@ sino que también inspiren y aporten valor a quienes las usen.
 <table align="center">
 
 
-<h3 align="center">Frontend </h3>
+<br/>
 <div align="center">
-<a target="_blank"><img style="margin: 10px" ![HTML5] src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30" /></a>
+<img style="margin: 10px" ![HTML5] src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30" />
 <img style="margin: 10px" ![CSS] src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Bootstrap" height="30" />    
 <img style="margin: 10px" ![TypeScript] src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="HTML5" height="30" />  
 <img style="margin: 10px" ![React] src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="Tailwind CSS" height="30" /> 
 <div>
+<br/>
 
-
-
-<h3 align="center">Backend </h3>
 <div align="center">
 <img style="margin: 10px" ![NodeJS] src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Bootstrap" height="30" />  
 <img style="margin: 10px" ![MySQL] src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="CSS3" height="30" />  
 <img style="margin: 10px" ![Django] src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="HTML5" height="30" />
 <div>
+<br/>
 
-
-
-<h3 align="center">Lenguaje </h3>
 <div align="center">
 <img style="margin: 10px" ![Java] src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="CSS3" height="30" />
 <img style="margin: 10px" ![Python] src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30" />
@@ -106,7 +102,7 @@ transformar aplicaciones y ofrecer experiencias enriquecidas. ¡Siempre abierto 
 
 ## Contáctame 📫
 
-<br/> **Este es mi correo electrónico: &nbsp; [kikolorenzodfs@gmail.com](mailto:kikolorenzodfs@gmail.com)**
+<br/> [![Gmail](https://img.shields.io/badge/kikolorenzodfs@gmail.com-white?style=for-the-badge&logo=gmail&logoColor=red&label=email%20de%20contacto&labelColor=white&color=yellowgreen)](mailto:kikolorenzodfs@gmail.com)
 
 <br/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> &nbsp; **¡Gracias por tu visita!**
 
