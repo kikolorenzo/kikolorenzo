@@ -22,25 +22,50 @@ pueden mejorar el flujo de trabajo en desarrollo web. Siempre abierto a nuevas h
 que impulsen la productividad y la calidad del código.
 <br><br>
 
-## 💻 &nbsp; Stack tecnológico
+## 💻 &nbsp; Stack Tecnológico
 
 <table align="center">
 <br/>
+
+<!-- Frontend -->
 <div align="center">
-<img style="margin: 10px" ![HTML5] src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30" />
-<img style="margin: 10px" ![CSS] src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Bootstrap" height="30" />    
-<img style="margin: 10px" ![JavaScript] src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30" />  
-<img style="margin: 10px" ![React] src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="Tailwind CSS" height="30" /> 
-<div>
+  <h4>🪟 &nbsp;Frontend</h4>
+  <img style="margin: 10px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="30" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="30" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="30" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/astro-%23000000.svg?style=for-the-badge&logo=astro&logoColor=white" height="30" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="30" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" height="30" />
+</div>
 <br/>
 
+<!-- Backend -->
 <div align="center">
-<img style="margin: 10px" ![NodeJS] src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Bootstrap" height="30" />  
-<img style="margin: 10px" ![MySQL] src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="CSS3" height="30" />  
-<img style="margin: 10px" ![Python] src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30" />
-<div>
+  <h4>🖧 &nbsp;Backend</h4>
+  <img style="margin: 10px" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="30" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" height="30" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="30" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" height="30" />
+</div>
+<br/>
 
-</td></tr></table>
+<!-- Bases de Datos -->
+<div align="center">
+  <h4>🗄️ &nbsp;Bases de Datos</h4>
+  <img style="margin: 10px" src="https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=sql&logoColor=white" height="30" />
+</div>
+<br/>
+
+<!-- Herramientas y CMS -->
+<div align="center">
+  <h4>🛠️ &nbsp;Herramientas y CMS</h4>
+  <img style="margin: 10px" src="https://img.shields.io/badge/wordpress-%2321759b.svg?style=for-the-badge&logo=wordpress&logoColor=white" height="30" />
+</div>
+<br/>
+</table>
 
 <br/>
 
