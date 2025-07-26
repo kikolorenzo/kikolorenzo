@@ -41,8 +41,9 @@ Siempre abierto a colaborar con personas y empresas que compartan la pasión por
 <div align="center">
   <!-- <h4>🤖 &nbsp;IA & Machine Learning</h4> -->
   <img style="margin: 10px" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="30" />
-  <img style="margin: 10px" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30" />
   <img style="margin: 10px" src="https://img.shields.io/badge/Hugging%20Face-2B344F?style=for-the-badge&logo=huggingface&logoColor=white" height="30" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/Azure%20OpenAI-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" height="30" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/Google%20AI-303030?style=for-the-badge&logo=google&logoColor=blue" height="30" />
   <img style="margin: 10px" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="30" />
   <img style="margin: 10px" src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=python&logoColor=white" height="30" />
 </div>  
